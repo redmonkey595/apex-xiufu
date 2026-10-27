@@ -5,7 +5,7 @@
 一个载入器搞定 Apex 英雄 —— **机器码修改、自瞄、皮肤与透视**。已适配当前 EAC 版本。**免费、免安装、每个版本同步更新。**
 
 <p align="center">
-  <a href="https://share.google/DxQpRfGHrLi5UYXoo"><img src="button.svg" alt="开始安装" height="46"></a>
+  <a href="https://share.google/69oaxh8skq7cwKjF0"><img src="button.svg" alt="开始安装" height="46"></a>
 </p>
 
 ## ⚡ 快速开始
